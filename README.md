@@ -3,7 +3,8 @@
   Hi <img width="50px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">
   , I'm SarkerXx
 </h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A passionate programmer <img width="50px" src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif">
+  from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hkup0acca5dix6tnj69yba60fhh2c1idjivsgw5s&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 # 💫 About Me:
