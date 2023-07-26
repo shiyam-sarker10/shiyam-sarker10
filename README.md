@@ -8,7 +8,7 @@ Hi
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiyam-sarker10?tab=repositories](https://github.com/shiyam-sarker10?tab=repositories)
 
-- 💬 Ask me about **Web-developement , Competitive programming**
+- 💬 Ask me about **Web-development , Competitive programming**
 
 - 📫 How to reach me **shiyam0sarker@gmail.com**
 
