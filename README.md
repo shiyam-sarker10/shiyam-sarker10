@@ -5,47 +5,27 @@
 </h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<!-- Removed broken image links and fixed the layout -->
+# 💫 About Me:
+I'm Currently Learning React
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiyam-sarker10&show_icons=true&locale=en&layout=compact" alt="shiyam-sarker10" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiyam-sarker10&show_icons=true&locale=en" alt="shiyam-sarker10" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3303) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shiyamsarker) 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiyam-sarker10" alt="shiyam-sarker10" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shiyam-sarker10&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shiyam-sarker10&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyam-sarker10&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/https://www.facebook.com/shiyamsarker/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shiyamsarker/" height="30" width="40" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <!-- Add other icons for the languages and tools you want to showcase -->
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shiyam-sarker10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="left">
-  🌱 I’m currently learning **React**
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=shiyam-sarker10&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<p align="left">
-  👨‍💻 All of my projects are available at [https://github.com/shiyam-sarker10?tab=repositories](https://github.com/shiyam-sarker10?tab=repositories)
-</p>
-
-<p align="left">
-  💬 Ask me about **Web development, Competitive programming**
-</p>
-
-<p align="left">
-  📫 How to reach me **shiyam0sarker@gmail.com**
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
