@@ -4,6 +4,7 @@
   , I'm SarkerXx
 </h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hkup0acca5dix6tnj69yba60fhh2c1idjivsgw5s&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 # 💫 About Me:
 I am a dedicated programmer with an unwavering passion for transforming ideas into reality through coding. Eager to learn and constantly strive to develop impactful and meaningful solutions.
