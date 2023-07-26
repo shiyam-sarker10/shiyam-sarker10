@@ -6,8 +6,8 @@
 <h3 align="center"><img width="50px" src="https://monophy.com/media/trN83pDD8yRDHBGfl3/monophy.gif">A passionate programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hkup0acca5dix6tnj69yba60fhh2c1idjivsgw5s&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-# <img width="50px" src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif"> About Me:
-I am a dedicated programmer with an unwavering passion for transforming ideas into reality through coding. Eager to learn and constantly strive to develop impactful and meaningful solutions.
+# <img width="50px" src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif"> 💫 About Me:
+I am a dedicated programmer💻 with an unwavering passion for transforming ideas into reality through coding. Eager to learn and constantly strive to develop impactful and meaningful solutions.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3303) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shiyamsarker) 
