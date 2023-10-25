@@ -11,7 +11,7 @@
 <img align="right" width="250" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
 
 
-#  <img width="50px" src="https://www.pngmart.com/files/21/About-Me-Transparent-PNG.png"> 💫 About Me:
+#  <img width="150px" src="https://www.pngmart.com/files/21/About-Me-Transparent-PNG.png"> :
 <h3>
  I am a dedicated programmer💻 with an unwavering passion for transforming ideas into reality through coding. Eager to learn and constantly strive to develop impactful and meaningful solutions.
 
