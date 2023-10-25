@@ -11,7 +11,7 @@
 <img align="right" width="250" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
 
 <div style="padding-top:50px;">
- # <img width="50px" src="https://monophy.com/media/CEHtFH3rJ6xdhBUKIT/monophy.gif"><span style="font-size:40px"> 💫 About Me</span>:
+ # <img width="50px" src="https://i.ibb.co/W59TkzM/red.png"><h2"> 💫 About Me</h2>:
 <h3>
  I am a dedicated programmer💻 with an unwavering passion for transforming ideas into reality through coding. Eager to learn and constantly strive to develop impactful and meaningful solutions.
 </h3>
