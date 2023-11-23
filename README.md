@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/1snL5gh/Blue-and-Red-Modern-Marketing-Manager-Linked-In-Article-Cover-Image.png">
 </div>
 <div align="left">
-  <h1> Greetings! I'm SarkerXx <img width="50px" src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp"> </h1> </div>
+  <h1> Greetings! Hi I'm SarkerXx <img width="50px" src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp"> </h1> </div>
 
 
 <div align="left">
