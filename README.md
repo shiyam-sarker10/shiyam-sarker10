@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966">
 </div>
-<div align="center">
-  <img src="https://i.ibb.co/1snL5gh/Blue-and-Red-Modern-Marketing-Manager-Linked-In-Article-Cover-Image.png">
+<div>
+  <img src="https://i.ibb.co/qddZcBP/Blue-and-Red-Modern-Marketing-Manager-Linked-In-Article-Cover-Image-1.png">
 </div>
 <div align="left">
   <h1> Greetings!<img width="50px" src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp"> Hi ,  I'm SarkerXx  </h1> </div>
