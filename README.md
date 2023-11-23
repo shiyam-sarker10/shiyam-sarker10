@@ -9,7 +9,9 @@
 
 
 <div align="left">
+  
   <img width="200" height="150" src="https://www.pngmart.com/files/21/About-Me-Transparent-PNG.png">
+  <img align="right" width="250" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
 
  #### I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, bringing ideas to life, and always look forward to learning and crafting solutions that truly have an impact. 💻🚀
 
