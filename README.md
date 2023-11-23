@@ -8,7 +8,8 @@
 <div align="left">
   <img width="200" src="https://www.pngmart.com/files/21/About-Me-Transparent-PNG.png">
   <h3>
-    I am a dedicated programmer 💻 with an unwavering passion for transforming ideas into reality through coding. Eager to learn and constantly strive to develop impactful and meaningful solutions.
+   
+I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, bringing ideas to life, and always look forward to learning and crafting solutions that truly have an impact. 💻🚀
   </h3>
 </div>
 
