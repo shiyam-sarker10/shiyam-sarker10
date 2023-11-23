@@ -55,10 +55,5 @@ I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and ha
   ![](https://github-readme-stats.vercel.app/api?username=shiyam-sarker10&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=shiyam-sarker10&theme=merko&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyam-sarker10&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
-
   [![Profile Visits](https://visitcount.itsvg.in/api?id=shiyam-sarker10&icon=2&color=3)](https://visitcount.itsvg.in)
 
