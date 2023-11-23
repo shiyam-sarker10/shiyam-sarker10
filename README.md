@@ -5,7 +5,7 @@
   Greetings! <img width="50px" src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp">
   , Hi    I'm SarkerXx
  </h1>
- <h2 align="center"><img width="30px" src="https://i.ibb.co/W59TkzM/red.png">A passionate <span style="color:red">programmer</span> from Bangladesh 💻 </h2>
+ <h2><img width="30px" src="https://i.ibb.co/W59TkzM/red.png">A passionate <span style="color:red">programmer</span> from Bangladesh 💻 </h2>
 
 
 <img align="right" width="250" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif">
