@@ -10,10 +10,10 @@
 
 <div align="left">
   <img width="200" src="https://www.pngmart.com/files/21/About-Me-Transparent-PNG.png">
-  <h3>
+
    
-I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, bringing ideas to life, and always look forward to learning and crafting solutions that truly have an impact. 💻🚀
-  </h3>
+ ##### I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, bringing ideas to life, and always look forward to learning and crafting solutions that truly have an impact. 💻🚀
+
 </div>
 
 ## 🌐 Socials:
