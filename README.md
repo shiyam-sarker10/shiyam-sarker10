@@ -1,6 +1,6 @@
-
-![Alt Text](URL_to_your_gif_file)
-
+<p align="center">
+  <img src="./Assets/banner.gif" alt="Girl in a jacket" />
+</p>
 
 <h2 align="center">📈 Current Stats</h2>
 <p align="center">
