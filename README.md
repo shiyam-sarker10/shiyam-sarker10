@@ -11,10 +11,10 @@
 
 <h2>📢 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiyam-sarker">
+  <a href="https://www.linkedin.com/in/shiyam-sarker" style="display: inline-block;">
     <img src="./Assets/Linkedin.png" alt="" width="200">
   </a>
-  <a href="https://www.facebook.com/shiyamsarker/">
+  <a href="https://www.facebook.com/shiyamsarker/" style="display: inline-block;">
     <img src="./Assets/Facebook.png" alt="Girl in a jacket" width="200">
   </a>
 </p>
