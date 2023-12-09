@@ -11,7 +11,7 @@
 
 <h2>📢 Let's Connect</h2>
 <p align="center">
-  <a href="linkedin.com/in/shiyam-sarker">
+  <a href="https://www.linkedin.com/in/shiyam-sarker">
     <img src="./Assets/Linkedin.png" alt="" width="200">
   </a>
   <a href="https://www.facebook.com/shiyamsarker/">
