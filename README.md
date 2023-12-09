@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/Modern Minimal Gradient Background Technology Banner.png" alt="Girl in a jacket" />
+  <img src="./Assets/banner.png" alt="Girl in a jacket" />
 </p>
 
 <h2 align="center">📈 Current Stats</h2>
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h2 align="center">📢 Let's Connect</h2>
+<h2>📢 Let's Connect</h2>
 <p align="center">
   <a href="linkedin.com/in/shiyam-sarker">
     <img src="./Assets/Linkedin.png" alt="" width="200">
@@ -19,4 +19,4 @@
   </a>
 </p>
 
-<h2 align="center">💻 The technologies I am familiar with.</h2>
+<h2>💻 The technologies I am familiar with.</h2>
