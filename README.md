@@ -3,7 +3,7 @@
 </p>
 <h2>🚩 About me</h2>
 
-### I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, bringing ideas to life, and always look forward to learning and crafting solutions that truly have an impact 💻🚀
+### I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, bringing ideas to life, and always look forward to learning and crafting solutions that truly have an impact. 💻🚀
 
 
 <h2>📈 Current Stats</h2>
