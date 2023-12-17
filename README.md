@@ -16,7 +16,7 @@
 
 <br>
 
-<h2>📢 Let's Connect</h2>
+<h2>📢 Let's Connect </h2>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/shiyam-sarker" style="display: inline-block;">
