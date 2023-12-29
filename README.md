@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h2>💻 The technologies I am familiar with.</h2>
+<h2>💻 The technologies I am familiar with</h2>
 
 <br>
 
