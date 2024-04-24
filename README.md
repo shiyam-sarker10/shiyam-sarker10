@@ -3,8 +3,7 @@
 </p>
 <h2>🚩About me</h2>
 
-### I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some knowledge of back-end. I enjoy coding, and bringing ideas to life, and I always look forward to learning and crafting solutions that truly have an impact. 💻🚀
-
+### I'm a web developer based in Dhaka, Bangladesh, specializing in front-end and having some back-end knowledge. I enjoy coding, and bringing ideas to life, and I always look forward to learning and crafting solutions that truly have an impact. 💻🚀
 
 <h2>📈 Current Stats</h2>
 
@@ -13,7 +12,6 @@
     <img src="https://streak-stats.demolab.com?user=shiyam-sarker10&theme=shadow-purple&sideNums=00CFEB&currStreakNum=DE00B1&currStreakLabel=DE00B1&stroke=181A1B00&ring=DE00B1&fire=DE00B1&dates=FFFFFF&sideLabels=00CFEB&border=00CFEB00&background=FF5B5B00" alt="GitHub Streak" />
   </a>
 </p>
-
 <br>
 
 <h2>📢 Let's Connect </h2>
